@@ -4,6 +4,6 @@ When comparing two fonts it is super important to analyze individual letter form
 
 Web Template for Glyph Comparison
 
-[font-paring-web-tool-index-html.png]()
+[https://github.com/vladocar/Font-Pairing-Glyph-Comparison-Tool/blob/main/font-paring-web-tool-index-html.png?raw=true]()
 
 https://www.fontpairings.com/font-pairing-glyph-comparison-tool/
